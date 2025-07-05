@@ -1,4 +1,4 @@
-name: gep_onsset_env
+name: moz_onsset_env
 channels:
   - defaults
 dependencies:
@@ -17,4 +17,6 @@ dependencies:
       - click-log==0.4.0
       - geojson
       - trimesh==4.4.3
-prefix: C:\Users\andre\.conda\envs\empg2024
+      - exactextract
+      - gridfinder
+prefix: C:\Users\andre\.conda\envs\moz_onsset_env
