@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/253060700.svg)](https://zenodo.org/badge/latestdoi/253060700) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/babakkhavari/Clustering)
 
-# Clustering
+# Generating Population Clusters for Mozambique
 Script and data from: **Population cluster data to assess the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Mark Howells and Francesco Fuso Nerini. Datasets produced using the method described in the paper are available at: https://data.mendeley.com/datasets/z9zfhzk8cr.
 
 ## Content
