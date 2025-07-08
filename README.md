@@ -58,6 +58,6 @@ Journal article can be found here: https://www.nature.com/articles/s41597-021-00
 **Conceptualization:** [Babak Khavari](https://github.com/babakkhavari) & [Francesco Fuso-Nerini](https://github.com/FFusoNerini)<br />
 **Methodology:** [Babak Khavari](https://github.com/babakkhavari)<br />
 **Software:** [Babak Khavari](https://github.com/babakkhavari)<br />
-**Validation:** [Babak Khavari](https://github.com/babakkhavari), [Alexandros Konrkovelos](https://github.com/akorkovelos) & [Andreas Sahlberg](https://github.com/AndreasSahlberg)<br />
+**Validation:** [Babak Khavari](https://github.com/babakkhavari), [Alexandros Korkovelos](https://github.com/akorkovelos) & [Andreas Sahlberg](https://github.com/AndreasSahlberg)<br />
 **Supervision and Advisory support:** [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Mark Howells](https://orcid.org/0000-0001-6419-4957)<br />
 
