@@ -27,7 +27,7 @@ data/outputs/
 notebooks/.ipynb_checkpoints
 
 
-
+.idea/
 
 # Python
 __pycache__/
