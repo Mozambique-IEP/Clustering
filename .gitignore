@@ -1,34 +1,22 @@
 # Data files — do not commit raw or processed data to GitHub
+*.tif
+*.geotiff
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.csv
+*.xlsx
+*.parquet
+
+# Input/Output data
 data/inputs/
-*.tif
-*.geotiff
-*.gpkg
-*.shp
-*.dbf
-*.shx
-*.prj
-*.csv
-*.xlsx
-*.parquet
-
-
 data/outputs/
-*.tif
-*.geotiff
-*.gpkg
-*.shp
-*.dbf
-*.shx
-*.prj
-*.csv
-*.xlsx
-*.parquet
-
-notebooks/.ipynb_checkpoints
-
-
-.idea/
 
 # Python
+.ipynb_checkpoints
+.idea/
 __pycache__/
 *.pyc
+*.egg-info/
