@@ -43,7 +43,7 @@ Output data is a vector file of settlement polygons including population estimat
 
 ## License
 
-This module is made available under the [GPL-3.0] license.
+This module is made available under the **GPL-3.0** license.
 See the LICENSE file in this repository for the full text.
 
 ## Contact
